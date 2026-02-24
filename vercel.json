@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "functions": {
+    "deobfuscate.js": {
+      "runtime": "nodejs24.x",
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  }
+}
